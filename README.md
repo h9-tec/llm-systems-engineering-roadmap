@@ -2231,6 +2231,7 @@ Can design secure, observable, scalable LLM architecture.
 - MS MARCO: https://microsoft.github.io/msmarco/
 - Sentence Transformers: https://www.sbert.net/
 - ClawBench (real-world browser-agent evaluation): [paper](https://arxiv.org/abs/2604.08523) · [project](https://claw-bench.com/) · [code](https://github.com/TIGER-AI-Lab/ClawBench)
+- [WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) - Benchmark for agents that reconstruct full-stack websites through browser exploration, evaluated on appearance and behavior.
 
 ## Agents
 
